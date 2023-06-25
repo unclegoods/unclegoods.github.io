@@ -33,6 +33,7 @@ github_username: unclegoods
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 
 google_analytics: G-QCBJL7DWZ3
